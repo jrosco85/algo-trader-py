@@ -2,14 +2,14 @@
 # -*- coding: utf-8 -*-
 
 """
-Módulo principal para la plataforma de trading algorítmico.
+Main module for the algorithmic trading platform.
 """
 
 def main():
     """
-    Función principal que inicia la aplicación.
+    Main function that starts the application.
     """
-    print("Hello World! Bienvenido a tu plataforma de Trading Algorítmico")
+    print("Hello World! Welcome to your Algorithmic Trading Platform")
 
 if __name__ == "__main__":
     main()
